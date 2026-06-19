@@ -71,14 +71,14 @@ Support strategic decision-making through data visualization.
 
 # Tools & Technologies Used:
 
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Data Cleaning & Transformation
-Conditional Formatting
-KPI Cards
-Interactive Dashboard Design
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning & Transformation
+- Conditional Formatting
+- KPI Cards
+- Interactive Dashboard Design
 # Project Outcome
 
 The Sales Analysis Dashboard transforms raw sales data into actionable business insights through an intuitive and interactive reporting interface. By centralizing key performance indicators and analytical visualizations, the dashboard enables faster decision-making, improved operational efficiency, and enhanced business growth strategies.
