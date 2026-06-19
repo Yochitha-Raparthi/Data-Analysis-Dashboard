@@ -3,7 +3,7 @@ The Sales Analysis Dashboard is an interactive business intelligence solution de
 
 The project analyzes order, customer, product, and delivery data to identify sales trends, top-performing products, revenue-generating categories, and customer purchasing patterns. Interactive slicers allow users to filter data by order date, delivery date, and occasion, enabling detailed analysis across different business dimensions.
 
-Key Features
+# Key Features
 1. KPI Monitoring
 
 The dashboard provides a quick overview of critical business metrics:
@@ -68,9 +68,8 @@ Understand customer purchasing behavior.
 Optimize product inventory and pricing strategies.
 Improve delivery performance and customer satisfaction.
 Support strategic decision-making through data visualization.
-Technical Implementation
 
-Tools & Technologies Used:
+# Tools & Technologies Used:
 
 Microsoft Excel
 Pivot Tables
@@ -80,6 +79,6 @@ Data Cleaning & Transformation
 Conditional Formatting
 KPI Cards
 Interactive Dashboard Design
-Project Outcome
+# Project Outcome
 
 The Sales Analysis Dashboard transforms raw sales data into actionable business insights through an intuitive and interactive reporting interface. By centralizing key performance indicators and analytical visualizations, the dashboard enables faster decision-making, improved operational efficiency, and enhanced business growth strategies.
